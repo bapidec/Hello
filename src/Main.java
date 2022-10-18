@@ -9,6 +9,8 @@ public class Main {
         Date date = new Date(System.currentTimeMillis());
         System.out.println(formatter.format(date));
 
+        System.out.println("Hello from feature branch!");
+
     }
 
 }
